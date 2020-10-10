@@ -1,0 +1,12 @@
+.list{
+  width: 45%;
+}
+.container2{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.food-one, .food-two, .food-three, .food-four{
+  cursor: pointer;
+}
